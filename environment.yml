@@ -1,0 +1,29 @@
+name: complex2
+
+channels: 
+    - pytorch 
+    - nvidia 
+    - pyg
+    - defaults 
+    - conda-forge
+
+dependencies:
+    - python
+    - matplotlib
+    - pyg
+    - pytorch
+    - numpy 
+    - pandas
+    - torchvision
+    - seaborn
+    - scikit-learn
+    - pytorch-cuda
+    - h5py
+    - tensorboard
+    - statsmodels
+    - pip
+    - pip:
+        - ipykernel
+        - biopython
+        - openpyxl
+        - ogb
