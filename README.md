@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/993408284.svg)](https://doi.org/10.5281/zenodo.19264154)
 
-THis repository implements a heterogenous-graph version of $Complex^2$ method that implicitly constrains edge connections within edge type. This implementation uses `PyTorch` and is compatible with `PyTorch-Geometric` data objects. 
+This repository implements a heterogenous-graph version of $Complex^2$ method that implicitly constrains edge connections within edge type. This implementation uses `PyTorch` and is compatible with `PyTorch-Geometric` data objects. 
 
 The method implemented in this repository is based on the work of Loconte et al. (citation below). 
 
